@@ -6,15 +6,23 @@
 
 ## Install
 
-All instructions can be found at [draculatheme.com/Chatterino](https://draculatheme.com/Chatterino).
+1. Download Dracula.json.
+2. Place it in the `Themes` folder: *([Check Chatterino's wiki for more info](https://wiki.chatterino.com/Settings/#where-is-my-chatterino-folder-located))*
+    - On Windows: `%APPDATA%/Chatterino2`
+    - On Linux: `$HOME/.local/share/chatterino`
+    - On Mac: `$HOME/Library/Application Support/chatterino`
+
+
+3. Relaunch Chatterino if open, go to **Settings > General > Theme** and select `Custom: Dracula`.
+4. It's working! ✨
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/chatterino/graphs/contributors).
 
-| [![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) | [![Lucas de França](https://github.com/luxonauta.png?size=100)](https://github.com/luxonauta) |
-| ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| [Zeno Rocha](https://github.com/zenorocha)                                               | [Lucas de França](https://github.com/luxonauta)                                               |
+| [![iSpace202](https://github.com/iSpace202.png?size=100)](https://github.com/iSpace202)     |
+| ---------------------------------------------------------------------------------- |
+| [iSpace202](https://github.com/iSpace202)                                                |
 
 ## Community
 
