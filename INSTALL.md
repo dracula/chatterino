@@ -1,4 +1,4 @@
-### [Foobar](https://foobar.com)
+### [Chatterino](https://Chatterino.com)
 
 #### Install using Git
 
@@ -14,6 +14,7 @@ Download using the [GitHub `.zip` download](https://github.com/dracula/foobar/ar
 
 #### Activating theme
 
-1. Do this;
-2. Then that;
-3. Boom! It's working ✨
+1. Download Dracula.json
+2. Place it in `%APPDATA/Chatterino/Themes`. *([check Chatterino's docs for other OS](https://wiki.chatterino.com/Themes/))*;
+3. Relaunch Chatterino if open, go to *Settings > General > Theme* and select `Custom: Dracula`.
+4. Boom! It's working ✨
